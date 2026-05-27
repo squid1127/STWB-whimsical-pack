@@ -1,5 +1,7 @@
 # STWB-Whimsical-pack
 
+[View on modrinth](https://modrinth.com/resourcepack/stwb-whimsical)
+
 A very loosely Greek themed, light blue GUI pack! (Minecraft Java Resource Pack)
 
 An official CubbScratchStudios project.
